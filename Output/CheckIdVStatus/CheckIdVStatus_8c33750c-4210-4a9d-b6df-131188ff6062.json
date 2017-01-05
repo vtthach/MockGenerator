@@ -1,0 +1,25 @@
+{
+  "Header": {
+    "SupplierID": "FB6459B3-411C-4136-A7FF-05A12A6F9106",
+    "MSISDN": "",
+    "IMEI": null,
+    "IMSI": null,
+    "UserID": null,
+    "MNO": null,
+    "DateTimeStamp": "\/Date(1449039980541+0200)\/",
+    "SessionKey": "8c33750c-4210-4a9d-b6df-131188ff6062",
+    "SessionNum": "",
+    "SessNumMandatory": true
+  },
+  "Detail": {
+    "DHA": "D0002",
+    "SAFPS": "S0001",
+    "HANIS": "H0003"
+  },
+  "Trailer": {
+    "StatusCode": "0",
+    "StatusDescription": "",
+    "ProcessedTimeIn": "2015-12-02T09:06:20.9631905",
+    "ProcessedTimeOut": "2015-12-02T09:06:21.0256716"
+  }
+}
