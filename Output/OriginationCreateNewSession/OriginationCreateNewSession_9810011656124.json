@@ -1,0 +1,24 @@
+{
+  "Header": {
+    "SupplierID": "FB6459B3-411C-4136-A7FF-05A12A6F9106",
+    "MSISDN": "0",
+    "IMEI": null,
+    "IMSI": null,
+    "UserID": null,
+    "MNO": null,
+    "DateTimeStamp": "/Date(1449039980541+0200)/",
+    "SessionKey": "8c33750c-4210-4a9d-b6df-131188ff6001",
+    "SessionNum": null,
+    "SessNumMandatory": false
+  },
+  "Detail": {
+    "IDNumber": "9810011656124"
+  },
+  "Trailer": {
+    "StatusCode": "0",
+    "StatusDescription": "Success, field data empty",
+    "ProcessedTimeIn": "2016-03-02T07:49:42.3257003",
+    "ProcessedTimeOut": "2016-03-02T07:49:46.4180588",
+    "InnerExceptionMessage": null
+  }
+}

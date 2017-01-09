@@ -12,9 +12,9 @@
     "SessNumMandatory": true
   },
   "Detail": {
-    "DHA": "D0003",
-    "SAFPS": "S0001",
-    "HANIS": "H0005"
+    "DHA": "D0002",
+    "SAFPS": "S0004",
+    "HANIS": "H0013"
   },
   "Trailer": {
     "StatusCode": "0",

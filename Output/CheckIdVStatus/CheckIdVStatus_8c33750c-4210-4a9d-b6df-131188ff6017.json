@@ -14,7 +14,7 @@
   "Detail": {
     "DHA": "D0001",
     "SAFPS": "S0002",
-    "HANIS": "H0003"
+    "HANIS": "H0002"
   },
   "Trailer": {
     "StatusCode": "0",
