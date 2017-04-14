@@ -1,0 +1,44 @@
+{
+ "Header": {
+  "SupplierID": "FB6459B3-411C-4136-A7FF-05A12A6F9106",
+  "MSISDN": "0027778008045",
+  "IMEI": "359899062535457",
+  "IMSI": null,
+  "UserID": null,
+  "MNO": null,
+  "DateTimeStamp": "\/Date(1457599121790)\/",
+  "SessionKey": "8c33750c-4210-4a9d-b6df-131188ff7002",
+  "SessionNum": "f727a690-6e98-4b5a-9a78-446df2dc41dc",
+  "SessNumMandatory": true
+ },
+ "Detail": {
+ 
+  "IDNo2": "7353287890123533",
+  "IDNumber": "7308025029000",
+  "AccountType": "0",
+  "DateOfBirth": "",
+  "MobileNumber": "0778008045",
+  "FirstName": "",
+  "LastName": "",
+  "FullName": "",
+  
+  "FirstNames": ["Tumi","Black","Chris"],
+  "LastNames": ["Doe","Jacobs","Avenue"],
+  "DateOfBirths": ["24 February 1984", "24 April 1981", "2 December 1980"],
+  
+  "StreetName": "Jan Avenue",
+  "HouseName": "12",
+  "SuburbName": "Rosebank",
+  
+  "StreetNames": ["Jan Avenue","Jacaranda Avenue","Snow Avenue"],
+  "HouseNames": ["Jan Avenue","Jan Avenue","Jan Avenue"],
+  "CityNames ": ["Jan Avenue","Jan Avenue","Jan Avenue"]
+
+ },
+ "Trailer": {
+  "StatusCode": "C0006",
+  "StatusDescription": "",
+  "ProcessedTimeIn": "2016-03-10T10:38:46.7317493",
+  "ProcessedTimeOut": "2016-03-10T10:38:47.4963711"
+ }
+}

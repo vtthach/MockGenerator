@@ -7,15 +7,15 @@
     "UserID": null,
     "MNO": null,
     "DateTimeStamp": "\/Date(1449039980541+0200)\/",
-    "SessionKey": "#KEY_SESSION",
+    "SessionKey": "8c33750c-4210-4a9d-b6df-131188ff7001",
     "SessionNum": "",
     "SessNumMandatory": true
   },
   "Detail": {
-    "IdvCallTime": "#KEY_CALL_TIME",
-    "DHA": "#KEY_DHA",
-    "SAFPS": "#KEY_SAFPS",
-    "HANIS": "#KEY_HANIS"
+    "IdvCallTime": "First",
+    "DHA": "D0001",
+    "SAFPS": "S0003",
+    "HANIS": "H0008"
   },
   "Trailer": {
     "StatusCode": "0",
