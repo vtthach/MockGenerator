@@ -15,9 +15,20 @@ public class CommonData {
     public static final String FILE_NAME_MOCK_METHOD_CREATE_SESSION = "OriginationCreateNewSession";
     public static final String FILE_NAME_MOCK_METHOD_CHECK_ID_V_STATUS = "CheckIdVStatus";
     public static final String FILE_NAME_MOCK_METHOD_MULTIPLE_CHOICE_CONFIRM = "IDNumberPostValidation";
+    public static final String FILE_NAME_MOCK_METHOD_BANK_MEM_NEW_ACCOUNT = "BankMemNewAccount";
     public static final String EXT_JSON = ".json";
 
     // Session prefix
     public static final String SESSION_PREFIX_IDV = "8c33750c-4210-4a9d-b6df-131188ff6";
-    public static final String SESSION_PREFIX_MULTIPLECHOICE = "8c33750c-4210-4a9d-b6df-131188ff7";
+    public static final String SESSION_PREFIX_MULTIPLE_CHOICE = "13111988-";
+    public static class ApiCode{
+        public static final String CREATE_ACCOUNT_EXCEPTION_MISSING = "B001";
+        public static final String SUCCESS = "0";
+    }
+
+    public static class Session {
+
+        public static final int CREATE_E17_ACCOUNT_EXCEPTION_B001 = 1;
+        public static final int[] CREATE_GN6_ACCOUNT_EXCEPTION_B001 = {2, 3};
+    }
 }
